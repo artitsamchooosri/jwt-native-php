@@ -3,5 +3,5 @@
 	"jwt_signing_alg" : [
 		"HS256"
 	],
-	"jwt_token_lifetime" : 3600
+	"jwt_token_lifetime" : 300
 }
